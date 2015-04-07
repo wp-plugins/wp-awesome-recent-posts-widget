@@ -74,9 +74,6 @@ WP Awesome Recent posts widget plugin provides easy way to show recent posts fro
 4. Configure widget.
 5. Now injoy!
 
-== Frequently Asked Questions ==
-
-
 
 == Screenshots ==
 
