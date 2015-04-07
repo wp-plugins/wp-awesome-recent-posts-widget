@@ -1,0 +1,32 @@
+.wp-awesome-recent-posts-widget {
+
+}
+.wp-awesome-recent-posts-widget ul.wp-awesome-recent-posts {
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+.wp-awesome-recent-posts-widget ul.wp-awesome-recent-posts li {
+	clear: both;
+}
+.wp-awesome-recent-posts-widget ul.wp-awesome-recent-posts li .wp-awesome-recent-posts-thumbnail {
+	float: left;
+	margin-right: 15px;
+	margin-bottom: 15px;
+}
+.wp-awesome-recent-posts-widget ul.wp-awesome-recent-posts li .wp-awesome-recent-posts-thumbnail img {
+	border-radius: 0px;
+	box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+	border: 2px solid #FFF;
+}
+.wp-awesome-recent-posts-widget .posted-date-and-author {
+	font-size: 0.9em;
+	font-style: italic;
+}
+.wp-awesome-recent-posts-widget h4 {
+	clear: none;
+}
+.wp-awesome-recent-posts-widget hr {
+	margin: 12px 0px;
+  background: #F0F0F0;
+}
