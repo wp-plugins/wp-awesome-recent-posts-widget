@@ -1,9 +1,9 @@
 === WP Awesome Recent Posts Widget ===
-Contributors: wp-chandra,chandgiri67
+Contributors:wp-chandra,chandgiri67
 Tags: Recent posts,post,recent post,posts,widget,recent posts widget,wpchandra,wp awesome recent posts
 Requires at least: 3.0.1
-Tested up to: 3.4
-Stable tag: 4.3
+Tested up to: 4.1.1
+Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
