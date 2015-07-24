@@ -71,6 +71,7 @@ class WP_Awesome_Recent_Posts_Widget extends WP_Widget {
             echo $before_title . $title . $after_title;
         }
 		include('inc/widget_area.php');	
+		echo $after_widget;
 	}	
 }
 // register WP_Widget widget
