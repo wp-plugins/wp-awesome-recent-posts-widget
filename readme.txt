@@ -16,17 +16,12 @@ WP Awesome Recent posts widget plugin provides easy way to show recent posts fro
 
 = Features: =
 
-** Quick install and integrate ** 
-
-** Supports post thumbnails ** 
-
-** Supports custom taxonomies ** 
-
-** Supports Soring, Offset and Order ** 
-
-** Supports published date and author ** 
-
-** Supports Posts excerpt with length and text ** 
+* Quick install and integrate
+* Supports post thumbnails
+* Supports custom taxonomies
+* Supports soring, offset & order
+* Supports published date & author
+* Supports posts excerpt with length and text 
 
 
 == Installation ==
@@ -37,13 +32,17 @@ WP Awesome Recent posts widget plugin provides easy way to show recent posts fro
 4. Configure widget.
 5. Now injoy!
 
+== Frequently Asked Questions ==
+There are no FAQ just yet
+
+
 == Screenshots ==
 
 1. Widget options Settings
 
 == Changelog ==
 
-= 1.0 =
+Version 2.0 released.
 
 == Upgrade Notice ==
 
