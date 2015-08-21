@@ -8,7 +8,7 @@ Author URI: http://www.wpchandra.com/
 Version: 2.0  
 */  
 class WP_Awesome_Recent_Posts_Widget extends WP_Widget {  
-	/* Constructor */
+	/* Constructor */ 
 	public function __construct() {
 		parent::__construct(
 			'wp_awesome_recent_posts', // Base ID
