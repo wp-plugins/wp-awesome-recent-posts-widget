@@ -23,6 +23,12 @@ WP Awesome Recent posts widget plugin provides easy way to show recent posts fro
 * Supports published date & author
 * Supports posts excerpt with length and text 
 
+### Find Us on Social Media
+
+* [Facebook](https://www.facebook.com/pages/WPChandra-To-Start-for-Web-Development/325741047605388?fref=ts)
+* [Twitter](https://twitter.com/webchandra)
+* [LinkedIn](https://www.linkedin.com/company/wpchandra)
+
 
 == Installation ==
 
@@ -33,6 +39,7 @@ WP Awesome Recent posts widget plugin provides easy way to show recent posts fro
 5. Now injoy!
 
 == Frequently Asked Questions ==
+
 There are no FAQ just yet
 
 
