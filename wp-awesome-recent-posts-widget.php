@@ -6,7 +6,7 @@ Description: Awesome Recent Posts Widget is a version of the WordPress Recent Po
 Author: Chandrakesh Kumar 
 Author URI: http://www.wpchandra.com/      
 Version: 2.0        
-*/    
+*/     
 class WP_Awesome_Recent_Posts_Widget extends WP_Widget {  
 	/* Constructor */  
 	public function __construct() {
