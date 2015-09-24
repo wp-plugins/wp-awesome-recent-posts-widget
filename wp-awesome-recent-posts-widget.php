@@ -3,7 +3,7 @@
 Plugin Name: Awesome Recent Posts Widget 
 Plugin URI: http://www.wpchandra.com/wp-plugins/
 Description: Awesome Recent Posts Widget is a version of the WordPress Recent Posts widget allowing increased customization to display recent posts from category you define.
-Author: Chandrakesh Kumar 
+Author: Chandrakesh Kumar  
 Author URI: http://www.wpchandra.com/      
 Version: 2.0         
 */       
